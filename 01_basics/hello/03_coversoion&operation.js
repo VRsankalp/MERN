@@ -20,3 +20,10 @@ console.log(b3)
 //1=> true ; false -> 0 
 //""=> false ; 
 // "hwll"-> true 
+
+console.log("1" +2)// here it treat it as string 12
+console.log(1 +2 +"2") //here it ADD first and the treat it as a string .
+console.log("1" +2 +2)//122
+console.log("1" +2)
+console.log(+true);//1
+
